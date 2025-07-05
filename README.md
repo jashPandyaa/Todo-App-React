@@ -3,7 +3,7 @@
 A simple, clean, and fully responsive *Todo List Web App* built using *React* with *Vite*, designed to help users efficiently manage daily tasks. Supports task categories, due dates, dark mode, and more.
 
 ## 🚀 Live Demo
-Check out the live deployed app: [Todo List App]((https://todo-app-react-by-pandya.vercel.app/))
+Check out the live deployed app: [Todo List App]((https://todo-app-react-by-pandya.vercel.app/)
 
 ## ✨ Features
 
