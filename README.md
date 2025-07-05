@@ -1,12 +1,28 @@
-# React + Vite
+# 📝 Todo List Web App
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A simple, clean, and fully responsive *Todo List Web App* built using *React* with *Vite*, designed to help users efficiently manage daily tasks. Supports task categories, due dates, dark mode, and more.
 
-Currently, two official plugins are available:
+## 🚀 Live Demo
+Check out the live deployed app: [Todo List App]((https://todo-app-react-by-pandya.vercel.app/))
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## ✨ Features
 
-## Expanding the ESLint configuration
+- ✅ Add and categorize tasks
+- 🗓️ Set due dates with a built-in date picker
+- 🌙 Toggle between light and dark mode
+- 📱 Fully responsive (mobile, tablet, desktop)
+- ⚛️ Built with React + Vite for fast performance
+- 💾 Local state handling (can be extended with database or Redux)
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## 🛠️ Tech Stack
+
+- *Frontend*: React (Vite)
+- *Styling*: Bootstrap 5 / Vanilla CSS
+- *Deployment*: Vercel
+- *Icons*: React Icons / Heroicons (if used)
+
+
+## 🧑‍💻 Author
+
+Made by [Jash Pandya](https://www.linkedin.com/in/jash-pandya/)  
+
