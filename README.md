@@ -1,4 +1,5 @@
 # 📝 Todo List Web App
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE) 
 
 A simple, clean, and fully responsive *Todo List Web App* built using *React* with *Vite*, designed to help users efficiently manage daily tasks. Supports task categories, due dates, dark mode, and more.
 
