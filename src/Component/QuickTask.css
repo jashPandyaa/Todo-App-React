@@ -1,0 +1,18 @@
+.quick-task {
+    cursor: pointer;
+    margin-right: 10px;
+    font-size: 1.2rem;
+    transition: all 0.2s ease;
+  }
+  
+  .quick-task.completed {
+    color: #28a745;
+  }
+  
+  .quick-task:not(.completed) {
+    color: #6c757d;
+  }
+  
+  .quick-task:hover {
+    transform: scale(1.1);
+  }
